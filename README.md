@@ -12,3 +12,5 @@ Runs the app in the development mode.
 Connecting to the Winnipeg Transit Data API, the search will return a list of streets that match the search query. Clicking on any of the streets in the returned list will display the next buses, for each route, at all the stops on a the selected street.
 
 Any URL (like http://www.github.com/) will be automatically converted into a clickable link.
+http://github.com - automatic!
+[GitHub](http://github.com)
